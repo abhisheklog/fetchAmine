@@ -1,0 +1,30 @@
+.box{
+  margin-top: 20px;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+li {
+  display: inline-block;
+}
+img {
+  width: 25vh;
+  height: 25vh;
+}
+input {
+  background-color: white;
+  border-radius: 30px;
+  font-size: 20px;
+  margin: 20px;
+  width: 50vmax;
+  padding: 14px ;
+}
+.detail {
+  display: block;
+  font-size: 30px;
+  word-spacing: 6px;
+}
+
+.box.detail{
+  display: inline-block;
+}
